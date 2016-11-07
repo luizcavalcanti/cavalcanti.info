@@ -19,6 +19,10 @@ p {
     font-size: 11pt;
 }
 
+ul {
+    margin-top: 3px;
+}
+
 a {
     color: #666666;
     text-decoration: none;
