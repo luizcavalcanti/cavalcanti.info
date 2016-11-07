@@ -11,8 +11,12 @@ body {
     vertical-align: middle;
 }
 
+hr {
+    border: 2px solid rgb(51,94,176);
+}
+
 p {
-    font-size: 12pt;
+    font-size: 11pt;
 }
 
 a {
@@ -114,8 +118,4 @@ a:hover {
     font-size: 10pt;
     margin-left: 110px;
     margin-bottom: 8px;
-}
-
-hr {
-    border: 2px solid rgb(51,94,176);
 }
