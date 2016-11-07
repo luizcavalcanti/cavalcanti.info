@@ -66,3 +66,50 @@ a:hover {
     vertical-align: middle;
     padding-left: 5px;
 }
+
+.cv {
+    display: table;
+    float: left;
+    font-size: 11pt;
+    margin-bottom: 40px;
+}
+
+.cv-header {
+    display: table-cell;
+    font-weight: bold;
+    font-size: 14pt;
+    float: left;
+    clear: left;
+    margin-top: 20px;
+    margin-bottom: -5px;
+    border-bottom: 3px solid rgb(51,94,176);
+}
+
+.cv-period {
+    display: table-cell;
+    float: left;
+    clear: left;
+    padding-right: 10px;
+    font-weight: bold;
+    width: 100px;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.cv-entry {
+    display: table-cell;
+    float: left;
+    margin-top: 10px;
+}
+
+.cv-details {
+    displau: table-cell;
+    float: left;
+    font-size: 10pt;
+    margin-left: 110px;
+    margin-bottom: 8px;
+}
+
+hr {
+    border: 2px solid rgb(51,94,176);
+}
