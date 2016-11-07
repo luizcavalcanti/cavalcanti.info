@@ -25,17 +25,24 @@ a:hover {
     color: #dd3333;
 }
 
+.titlebar {
+    font-size: 20pt;
+    font-weight: bold;
+    color: rgb(51,94,126);
+}
+
 .menu {
     float: left;
     padding: 10px 0px 10px 0px;
     align: center;
+    width: 720px;
 }
 
 .menu-item {
     padding: 0px 20px 0px 0px; 
     float: left;
     font-weight: bold;
-    font-size: 16pt;
+    font-size: 14pt;
 }
 
 .content {
