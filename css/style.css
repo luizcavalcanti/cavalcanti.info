@@ -24,7 +24,7 @@ ul {
 }
 
 a {
-    color: #666666;
+    color: #5555bb;
     text-decoration: none;
 }
 
@@ -50,6 +50,15 @@ a:hover {
     float: left;
     font-weight: bold;
     font-size: 14pt;
+}
+
+.menu-item a {
+    color: #666666;
+    text-decoration: none;
+}
+
+.menu-item a:hover {
+    color: #dd3333;
 }
 
 .content {
