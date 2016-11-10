@@ -56,6 +56,8 @@ a:hover {
     clear: left;
     float: left;
     width: 720px;
+    margin-bottom: 40px;
+    font-size: 11pt;
 }
 
 .photo {
@@ -79,13 +81,12 @@ a:hover {
     display: table-cell;
     vertical-align: middle;
     padding-left: 5px;
+    font-size: 12pt;
 }
 
 .cv {
     display: table;
     float: left;
-    font-size: 11pt;
-    margin-bottom: 40px;
 }
 
 .cv-header {
@@ -117,9 +118,52 @@ a:hover {
 }
 
 .cv-details {
-    displau: table-cell;
+    display: table-cell;
     float: left;
     font-size: 10pt;
     margin-left: 110px;
     margin-bottom: 8px;
+}
+
+.rs-period {
+    display: table-cell;
+    float: left;
+    clear: left;
+    padding-right: 10px;
+    font-weight: bold;
+    width: 100px;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.rs-entry {
+    display: table-cell;
+    float: left;
+    margin-top: 10px;
+    width: 610px;
+    font-weight: bold;
+}
+
+.rs-authors {
+    display: table-cell;
+    float: left;
+    margin-left: 110px;
+    width: 610px;
+}
+
+.rs-details {
+    display: table-cell;
+    float: left;
+    font-size: 10pt;
+    margin-left: 110px;
+    clear: left;
+}
+
+.rs-link {
+    display: table-cell;
+    float: left;
+    font-size: 10pt;
+    margin-left: 110px;
+    margin-bottom: 8px;
+    clear: left;
 }
