@@ -106,7 +106,7 @@ a:hover {
     clear: left;
     padding-right: 10px;
     font-weight: bold;
-    width: 110px;
+    width: 120px;
     text-align: right;
     margin-top: 10px;
 }
@@ -138,7 +138,7 @@ a:hover {
 }
 
 .rs-entry {
-    display: table-cell;
+    word-wrap: break-word;
     float: left;
     margin-top: 10px;
     font-weight: bold;
