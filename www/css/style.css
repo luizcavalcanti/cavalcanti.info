@@ -6,9 +6,6 @@ html {
 body {
     font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     background-color: #fcfcfc;
-    padding: 0px 20px 0px 20px;
-    display: table-cell;
-    vertical-align: middle;
 }
 
 hr {
@@ -40,17 +37,13 @@ a:hover {
 }
 
 .menu {
-    float: left;
-    padding: 10px 0px 10px 0px;
-    align: center;
-    width: 720px;
 }
 
 .menu-item {
-    padding: 0px 20px 0px 0px; 
-    float: left;
     font-weight: bold;
     font-size: 14pt;
+    float: left;
+    padding-right: 20px;
 }
 
 .menu-item a {
@@ -63,16 +56,8 @@ a:hover {
 }
 
 .content {
-    clear: left;
-    float: left;
-    width: 720px;
     margin-bottom: 40px;
     font-size: 11pt;
-}
-
-.photo {
-    float: center;
-    margin-left: 260px;
 }
 
 .contact {
@@ -116,7 +101,7 @@ a:hover {
     clear: left;
     padding-right: 10px;
     font-weight: bold;
-    width: 100px;
+    width: 110px;
     text-align: right;
     margin-top: 10px;
 }
@@ -129,6 +114,7 @@ a:hover {
 
 .cv-details {
     display: table-cell;
+    clear: left;
     float: left;
     font-size: 10pt;
     margin-left: 110px;
