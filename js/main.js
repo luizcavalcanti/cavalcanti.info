@@ -6,13 +6,11 @@ exclude: 'yes'
 
 togglePanel = function(panelClassName) {
   if ($(panelClassName).hasClass('showing')){
-    $(panelClassName).removeClass('animated slideInRight')
-    $('.panel-cover').removeClass('panel-cover--collapsed')
-    $('.panel-cover').css('max-width', '100%')
-    $('.panel-cover').animate({'width': '100%'}, 400, swing = 'swing', function () {})
-    $(panelClassName).removeClass('showing')
-    window.location.hash = '';
-    parent.location.hash = ''
+    // $('.panel-cover').css('max-width', '100%')
+    // $('.panel-cover').animate({'width': '100%'}, 400, swing = 'swing', function () {})
+    // $('.panel-cover').removeClass('panel-cover--collapsed')
+    // $(panelClassName).removeClass('showing')
+    // $(panelClassName).removeClass('animated slideInRight')
     return;
   }
 
