@@ -75,7 +75,7 @@ robots: noindex
           <div class="timeline-body">
             {{ game.desc | markdownify }}
             <br>
-            <a target="_blank" href="{{ games.download_url }}">Download</a>
+            <a target="_blank" href="{{ game.download_url }}">Download</a>
             <div user="{{ game.gh_user }}" repo="{{ game.repo }}" class="ghbtn" style="margin-top: 10px;">
               <a target="_blank" href="https://github.com/{{ game.gh_user }}/{{ game.repo }}/stargazers"><i class="fa fa-star"></i><span class="star"> ...</span></a>&emsp;&emsp;
               <a target="_blank" href="https://github.com/{{ game.gh_user }}/{{ game.repo }}/network"><i class="fa fa-code-fork"></i><span class="fork"> ...</span></a>&emsp;&emsp;
