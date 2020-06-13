@@ -1,0 +1,13 @@
+- name: Zona de Conflito
+  download_url: https://gamejolt.com/games/zonadeconflito/374623
+  gh_user: largato
+  repo: jogabilijam3
+  img: images/zona.png
+  desc: A top-down Clash Royale-like little game for Jogabilijam 3. Made in Lua + Love2D
+
+- name: Tretas Lendárias
+  download_url: https://gamejolt.com/games/tretaslendarias/287251
+  gh_user: largato
+  repo: jogabilijam2
+  img: images/tretas.png
+  desc: A classic turn-based strategy involving brazilian legendary characters. Made in Lua + Love2D for Jogabilijam 2
