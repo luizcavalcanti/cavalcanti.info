@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jekyll clean && jekyll build
+cd static_site && hugo

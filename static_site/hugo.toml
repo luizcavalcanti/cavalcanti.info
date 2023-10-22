@@ -1,0 +1,95 @@
+baseurl = "http://www.cavalcanti.info"
+title = "Luiz Cavalcanti - Software Engineer"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "luizcavalcanti"
+
+[markup.highlight]
+style = "github-dark"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+  author = "Luiz Cavalcanti"
+  info = "Software Enginer and Computer Science M.Sc."
+  description = "Luiz Cavalcanti's personal website"
+  keywords = "blog,developer,personal,cv"
+  avatarurl = "/images/profile.jpg"
+  #gravatar = "cavalcanti.luiz@gmail.com"
+
+  faviconSVG = "/favicons/favicon.svg"
+  favicon_32 = "/favicons/favicon-32x32.png"
+  favicon_16 = "/favicons/favicon-16x16.png"
+  touchIcon = "/favicons/apple-touch-icon.png"
+
+  #since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 1
+  url = "mailto:cavalcanti.luiz@gmail.com"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/luizcavalcanti"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 3
+  url = "https://github.com/luizcavalcanti/"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-mastodon fa-2x"
+  weight = 5
+  url = "https://mastodon.social/@luizcavalcanti"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 4
+  url = "https://twitter.com/luizcavalcanti/"
+
+# Menu links
+[[menu.main]]
+  name = "📃 Resume"
+  weight = 1
+  url = "resume/"
+[[menu.main]]
+  name = "🔬 Research"
+  weight = 3
+  url = "research/"
+[[menu.main]]
+  name = "🕹️ Games"
+  weight = 4
+  url = "games/"
+#[[menu.main]]
+#  name = "🛠️ Projects"
+#  weight = 2
+#  url = "projects/"
+[[menu.main]]
+  name = "✒️ Blog"
+  weight = 5
+  target = "_blank"
+  url  = "https://luizcavalcanti.wordpress.com"
