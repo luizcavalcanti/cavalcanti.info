@@ -1,3 +1,3 @@
 # cavalcanti.info
 
-Personal website make with Jekyll and [Uno-Timeline theme](https://github.com/tzuehlke/jekyll-uno-timeline) (with some crapy mods)
+Personal website make with [Hugo](https://gohugo.io) and [hugo-coder](https://github.com/luizdepra/hugo-coder) theme.
