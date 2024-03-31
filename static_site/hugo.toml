@@ -62,7 +62,7 @@ unsafe = true
   url = "https://github.com/luizcavalcanti/"
 [[params.social]]
   name = "Mastodon"
-  icon = "fa fa-mastodon fa-2x"
+  icon = "fa-brands fa-mastodon fa-2x"
   weight = 4
   url = "https://mastodon.social/@luizcavalcanti"
 [[params.social]]
