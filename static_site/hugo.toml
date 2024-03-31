@@ -63,13 +63,13 @@ unsafe = true
 [[params.social]]
   name = "Mastodon"
   icon = "fa fa-mastodon fa-2x"
-  weight = 5
+  weight = 4
   url = "https://mastodon.social/@luizcavalcanti"
-# [[params.social]]
-  # name = "Twitter"
-  # icon = "fa fa-twitter fa-2x"
-  # weight = 4
-  # url = "https://twitter.com/luizcavalcanti/"
+[[params.social]]
+  name = "RSS"
+  icon = "fa fa-rss fa-2x"
+  weight = 5
+  url = "posts/index.xml"
 
 # Menu links
 [[menu.main]]
@@ -92,3 +92,13 @@ unsafe = true
 #  name = "🛠️ Projects"
 #  weight = 5
 #  url = "projects/"
+
+[outputs]
+home = ['html']
+section = ['html']
+taxonomy = ['html']
+term = ['html']
+
+# [outputFormats.RSS]
+# mediatype = "application/rss"
+# baseName = "feed"
