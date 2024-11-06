@@ -1,6 +1,6 @@
 +++
 title = 'Resume'
-date = 2023-10-22T15:55:56-03:00
+date = 2024-11-05T21:00:00-03:00
 draft = false
 +++
 
@@ -9,7 +9,14 @@ draft = false
 
 ## Experience
 
-### (2019-now) Lead Software Engineering Consultant - Thoughtworks
+### (2024-now) Squad Leader - Magalu Cloud
+_São Paulo, Brazil_
+
+- Technical management and application design for Release Engineering team
+- Technical management for cloud's SDK, CLI and Terraform open-source projects
+
+
+### (2019-2024) Lead Software Engineering Consultant - Thoughtworks
 _São Paulo, Brazil_
 
 - Development of backend software in Python, Java and Ruby, ranging from banking to streaming media management;
