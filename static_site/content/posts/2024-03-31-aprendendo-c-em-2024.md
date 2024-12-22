@@ -10,7 +10,6 @@ tags = [
 categories = [
     "computação",
 ]
-series = ["Computação"]
 +++
 
 Eu ando muito cansado de aprender coisas porque preciso. Mas antes de chegar no assunto do título, eu quero te falar umas coisas.

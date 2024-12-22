@@ -1,7 +1,7 @@
 +++
 authors = ["Luiz Cavalcanti"]
 title = "O que sobrou de vida em 2024"
-date = "2024-12-30"
+date = "2099-12-31"
 description = "As coisas que consegui fazer além das horas intermináveis de trabalho"
 tags = [
     "livros",
@@ -13,10 +13,10 @@ tags = [
 categories = [
     "pessoal",
 ]
-series = ["Retrospectiva"]
 +++
 
-Ano que mais trabalhei na vida. O plano de [aprender C de verdade]("2024-03-31-aprendendo-c-em-2024.md") andou, mas pouco.
+Ano que mais trabalhei na vida. O plano de [aprender C de verdade]({{<ref "/posts/2024-03-31-aprendendo-c-em-2024.md">}}) andou, mas muito pouco.
+
 Um pouco por força de compromissos financeiros, um pouco por escolhas duvidosas
 Sobrou pouquíssimo tempo ou energia para fazer as coisas que gosto, incluindo as que são mais ou menos relacionadas com o trabalho
 Numa tentantiva de me sentir um pouco menos mal e mais vivo, comecei a anotar as coisas que consumia/usufruia ao longo do ano, numa expectativa de olhar para trás e talvez perceber que eu consegui ao menos viver um pouquinho em 2024.
