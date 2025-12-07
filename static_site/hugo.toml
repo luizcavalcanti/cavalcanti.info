@@ -6,8 +6,6 @@ defaultcontentlanguage = "en"
 
 # paginate = 20
 
-disqusShortname = "luizcavalcanti"
-
 [markup.highlight]
 style = "github-dark"
 

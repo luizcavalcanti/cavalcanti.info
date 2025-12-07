@@ -7,4 +7,4 @@ services:
       - "8000:80"
     volumes:
       - ./static_site/public:/usr/share/nginx/html
-    restart: always
+    restart: on-failure
