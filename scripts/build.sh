@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd static_site && hugo
+cd static_site && hugo --minify --ignoreCache
