@@ -1,5 +1,15 @@
+@font-face {
+    font-family: interform;
+    src: url(/fonts/interform.otf);
+}
+
+*, h1, h2, h3 {
+    font-family: interform;
+}
+
 h2, h3 {
-	margin-bottom: 0px;
+    margin-bottom: 0px;
+    font-family: interform;
 }
 
 ul {
@@ -7,3 +17,6 @@ ul {
 	line-height: 1.4em;
 }
 
+.title {
+    font-family: interform;
+}

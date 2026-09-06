@@ -1,7 +1,7 @@
 baseurl = "http://www.cavalcanti.info"
 title = "Luiz Cavalcanti - Software Engineer"
 theme = "hugo-coder"
-languagecode = "en"
+locale = "en"
 defaultcontentlanguage = "en"
 
 # paginate = 20
@@ -75,21 +75,21 @@ unsafe = true
   weight = 1
   url = "resume/"
 [[menu.main]]
-  name = "✒️ Blog"
-  weight = 2
-  url = "posts"
-[[menu.main]]
   name = "🔬 Research"
-  weight = 3
+  weight = 2
   url = "research/"
 [[menu.main]]
   name = "🕹️ Games"
-  weight = 4
+  weight = 3
   url = "games/"
 #[[menu.main]]
 #  name = "🛠️ Projects"
-#  weight = 5
+#  weight = 4
 #  url = "projects/"
+[[menu.main]]
+  name = "✒️ Blog"
+  weight = 5
+  url = "posts/"
 
 [outputs]
 home = ['html']

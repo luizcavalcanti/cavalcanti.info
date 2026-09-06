@@ -21,3 +21,7 @@
 {{ partial "head/extensions.html" . }}
 
 <script defer src="https://eu.umami.is/script.js" data-website-id="8d73bdcf-d77a-434a-844b-30e71d7cbbea"></script>
+
+{{ with resources.Get "fonts/interform.otf" }}
+<link rel="preload" href="{{ .RelPermalink }}" as="font" crossorigin>
+{{ end }}
