@@ -25,3 +25,7 @@
 {{ with resources.Get "fonts/interform.otf" }}
 <link rel="preload" href="{{ .RelPermalink }}" as="font" crossorigin>
 {{ end }}
+
+{{ with resources.Get "fonts/gradvis-regular.ttf" }}
+<link rel="preload" href="{{ .RelPermalink }}" as="font" crossorigin>
+{{ end }}

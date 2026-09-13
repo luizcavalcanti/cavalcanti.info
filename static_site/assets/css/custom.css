@@ -1,15 +1,21 @@
+/* @font-face { */
+/*     font-family: interform; */
+/*     src: url(/fonts/interform.otf); */
+/* } */
+
 @font-face {
-    font-family: interform;
-    src: url(/fonts/interform.otf);
+    font-family: gradvis;
+    src: url(/fonts/gradvis-regular.ttf);
 }
 
 *, h1, h2, h3 {
-    font-family: interform;
+    font-family: gradvis;
+    font-weight: lighter;
 }
 
 h2, h3 {
     margin-bottom: 0px;
-    font-family: interform;
+    font-family: gradvis;
 }
 
 ul {
@@ -18,5 +24,10 @@ ul {
 }
 
 .title {
-    font-family: interform;
+    font-family: gradvis;
+}
+
+p {
+    font-family: Helvetica, sans-serif;;
+    font-weight: lighter;
 }
