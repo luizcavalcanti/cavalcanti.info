@@ -27,7 +27,7 @@ Não se trata de um survival horror. Apesar de algum gerenciamento de recursos e
 
 O destaque fica para o combate, que parece super simples no começo (um botão de ataque, um de defesa e só) e tem nuances surpreendentes que você percebe ao longo do jogo, como uma mecânica de contra-ataque que causa morte instantânea e rende orbes diferentes. Orbes também enriquecem a dinâmica do combate. A maioria dos inimigos não são desafiadores se enfrentados sozinhos, mas a coisa se complica rápido quando há mais de um ao mesmo tempo, visto que ao derrotar um adversário, ele deixa orbes (XP para upgrades, energia para golpes especiais ou vida) que precisam ser absorvidas ao segurar um botão antes que sumam. Esta ação deixa o jogador vulnerável a outros inimigos e o balanço entre absorver as orbes e continuar o combate adiciona uma boa camada de tática.
 
-![Sanosuke enfrentando o diabo de cueca e calcinha](/images/blog/onimusha_01.jpg)Samanosuke enfrentando o diago de cueca e calcinha.
+![Sanosuke enfrentando o diabo de cueca e calcinha](/images/blog/onimusha_01.jpg)Samanosuke enfrentando o diabo de cueca e calcinha.
 
 Levei cerca de 7 horas no total para terminar o jogo uma vez e começar um "new game+" com dificuldade alterada, skin de panda e outras coisinha. Pelo que li por aí, se você terminar em um tempo menor que o meu (5 horas segundo o relógio interno do jogo) e pegar mais algumas coisas, há um novo modo de jogo e algumas opções de rejogabilidade que podem ser exploradas.
 
