@@ -1,4 +1,4 @@
-baseurl = "http://www.cavalcanti.info"
+baseurl = "https://www.cavalcanti.info"
 title = "Luiz Cavalcanti - Software Engineer"
 theme = "hugo-coder"
 locale = "en"
